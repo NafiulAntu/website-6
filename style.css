@@ -1,0 +1,32 @@
+body {
+}
+
+.contenir {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 30rem;
+}
+
+.all-name {
+  color: black;
+}
+.box * {
+  height: 50px;
+  width: 200px;
+  border-radius: 15px;
+  text-align: center;
+  padding-top: 15px;
+}
+.a1 {
+  background-color: rgb(212, 0, 255);
+}
+
+.a2 {
+  background-color: rgb(42, 165, 155);
+}
+
+.a3 {
+  background-color: rgb(43, 144, 226);
+}
